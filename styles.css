@@ -122,7 +122,7 @@ body {
   color: #c6f9f1;
 }
 
-@media (max-width:  375px) {
+@media (max-width:  768px) {
   .wrapper {
     display: grid;
     position: relative;
